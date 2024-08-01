@@ -35,4 +35,5 @@ $ npm install
 ```bash
 $ npm run start
 ```
+Обязательно запустить на 3000 порту
 
